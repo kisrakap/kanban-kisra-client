@@ -1,5 +1,4 @@
-# kanban-kisra-client
-Frontend Kanban 
+# client2
 
 ## Project setup
 ```
